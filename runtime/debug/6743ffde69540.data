@@ -1,0 +1,1216 @@
+a:14:{s:6:"config";s:9948:"a:5:{s:10:"phpVersion";s:6:"7.4.33";s:10:"yiiVersion";s:6:"2.0.49";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.49";s:4:"name";s:32:"Simasganteng 2.0 - Administrator";s:7:"version";s:3:"1.0";s:8:"language";s:5:"id-ID";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";s:4:"true";}s:3:"php";a:5:{s:7:"version";s:6:"7.4.33";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:1;s:9:"memcached";b:1;}s:10:"extensions";a:44:{s:27:"2amigos/yii2-chartjs-widget";a:3:{s:4:"name";s:27:"2amigos/yii2-chartjs-widget";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:18:"@dosamigos/chartjs";s:55:"/home/public_www/vendor/2amigos/yii2-chartjs-widget/src";}}s:33:"dominus77/yii2-sweetalert2-widget";a:3:{s:4:"name";s:33:"dominus77/yii2-sweetalert2-widget";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:22:"@dominus77/sweetalert2";s:61:"/home/public_www/vendor/dominus77/yii2-sweetalert2-widget/src";}}s:23:"yiisoft/yii2-bootstrap4";a:3:{s:4:"name";s:23:"yiisoft/yii2-bootstrap4";s:7:"version";s:8:"2.0.11.0";s:5:"alias";a:1:{s:15:"@yii/bootstrap4";s:51:"/home/public_www/vendor/yiisoft/yii2-bootstrap4/src";}}s:29:"hail812/yii2-adminlte-widgets";a:3:{s:4:"name";s:29:"hail812/yii2-adminlte-widgets";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:25:"@hail812/adminlte/widgets";s:57:"/home/public_www/vendor/hail812/yii2-adminlte-widgets/src";}}s:22:"hail812/yii2-adminlte3";a:3:{s:4:"name";s:22:"hail812/yii2-adminlte3";s:7:"version";s:7:"1.1.9.0";s:5:"alias";a:1:{s:18:"@hail812/adminlte3";s:50:"/home/public_www/vendor/hail812/yii2-adminlte3/src";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"3.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:53:"/home/public_www/vendor/kartik-v/yii2-krajee-base/src";}}s:25:"kartik-v/yii2-datecontrol";a:3:{s:4:"name";s:25:"kartik-v/yii2-datecontrol";s:7:"version";s:7:"1.9.9.0";s:5:"alias";a:1:{s:19:"@kartik/datecontrol";s:53:"/home/public_www/vendor/kartik-v/yii2-datecontrol/src";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.6.4.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:59:"/home/public_www/vendor/kartik-v/yii2-widget-activeform/src";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:48:"/home/public_www/vendor/kartik-v/yii2-dialog/src";}}s:25:"kartik-v/yii2-detail-view";a:3:{s:4:"name";s:25:"kartik-v/yii2-detail-view";s:7:"version";s:7:"1.8.7.0";s:5:"alias";a:1:{s:14:"@kartik/detail";s:53:"/home/public_www/vendor/kartik-v/yii2-detail-view/src";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:46:"/home/public_www/vendor/kartik-v/yii2-mpdf/src";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.2.5.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:56:"/home/public_www/vendor/kartik-v/yii2-widget-select2/src";}}s:22:"kartik-v/yii2-sortable";a:3:{s:4:"name";s:22:"kartik-v/yii2-sortable";s:7:"version";s:7:"1.2.2.0";s:5:"alias";a:1:{s:16:"@kartik/sortable";s:50:"/home/public_www/vendor/kartik-v/yii2-sortable/src";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.5.3.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:46:"/home/public_www/vendor/kartik-v/yii2-grid/src";}}s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:7:"1.5.5.0";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:50:"/home/public_www/vendor/kartik-v/yii2-dynagrid/src";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:7:"1.4.3.0";s:5:"alias";a:1:{s:14:"@kartik/export";s:48:"/home/public_www/vendor/kartik-v/yii2-export/src";}}s:20:"kartik-v/yii2-number";a:3:{s:4:"name";s:20:"kartik-v/yii2-number";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:14:"@kartik/number";s:48:"/home/public_www/vendor/kartik-v/yii2-number/src";}}s:28:"kartik-v/yii2-sortable-input";a:3:{s:4:"name";s:28:"kartik-v/yii2-sortable-input";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/sortinput";s:56:"/home/public_www/vendor/kartik-v/yii2-sortable-input/src";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:58:"/home/public_www/vendor/kartik-v/yii2-widget-typeahead/src";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.4.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:58:"/home/public_www/vendor/kartik-v/yii2-widget-touchspin/src";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:59:"/home/public_www/vendor/kartik-v/yii2-widget-timepicker/src";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:56:"/home/public_www/vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:56:"/home/public_www/vendor/kartik-v/yii2-widget-spinner/src";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:52:"/home/public_www/vendor/kartik-v/yii2-widget-sidenav";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:55:"/home/public_www/vendor/kartik-v/yii2-widget-rating/src";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:59:"/home/public_www/vendor/kartik-v/yii2-widget-rangeinput/src";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.2.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:54:"/home/public_www/vendor/kartik-v/yii2-widget-growl/src";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:58:"/home/public_www/vendor/kartik-v/yii2-widget-fileinput/src";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:56:"/home/public_www/vendor/kartik-v/yii2-widget-depdrop/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.5.1.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:63:"/home/public_www/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:59:"/home/public_www/vendor/kartik-v/yii2-widget-datepicker/src";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:59:"/home/public_www/vendor/kartik-v/yii2-widget-colorinput/src";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.5.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:54:"/home/public_www/vendor/kartik-v/yii2-widget-alert/src";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:50:"/home/public_www/vendor/kartik-v/yii2-widget-affix";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.1.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:49:"/home/public_www/vendor/kartik-v/yii2-widgets/src";}}s:23:"yiisoft/yii2-bootstrap5";a:4:{s:4:"name";s:23:"yiisoft/yii2-bootstrap5";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:15:"@yii/bootstrap5";s:51:"/home/public_www/vendor/yiisoft/yii2-bootstrap5/src";}s:9:"bootstrap";s:40:"yii\bootstrap5\i18n\TranslationBootstrap";}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.1.25.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:46:"/home/public_www/vendor/yiisoft/yii2-debug/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:46:"/home/public_www/vendor/yiisoft/yii2-faker/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.2.6.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:44:"/home/public_www/vendor/yiisoft/yii2-gii/src";}}s:26:"yiisoft/yii2-symfonymailer";a:3:{s:4:"name";s:26:"yiisoft/yii2-symfonymailer";s:7:"version";s:7:"3.0.0.0";s:5:"alias";a:1:{s:18:"@yii/symfonymailer";s:54:"/home/public_www/vendor/yiisoft/yii2-symfonymailer/src";}}s:21:"yiithings/yii2-dotenv";a:3:{s:4:"name";s:21:"yiithings/yii2-dotenv";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:17:"@yiithings/dotenv";s:49:"/home/public_www/vendor/yiithings/yii2-dotenv/src";}}s:23:"yiisoft/yii2-httpclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-httpclient";s:7:"version";s:8:"2.0.15.0";s:5:"alias";a:1:{s:15:"@yii/httpclient";s:51:"/home/public_www/vendor/yiisoft/yii2-httpclient/src";}}s:23:"yiisoft/yii2-authclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-authclient";s:7:"version";s:8:"2.2.15.0";s:5:"alias";a:1:{s:15:"@yii/authclient";s:51:"/home/public_www/vendor/yiisoft/yii2-authclient/src";}}s:26:"wbraganca/yii2-dynamicform";a:3:{s:4:"name";s:26:"wbraganca/yii2-dynamicform";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:22:"@wbraganca/dynamicform";s:54:"/home/public_www/vendor/wbraganca/yii2-dynamicform/src";}}}}";s:3:"log";s:18381:"a:1:{s:8:"messages";a:24:{i:0;a:6:{i:0;s:68:"Bootstrap with yii\bootstrap5\i18n\TranslationBootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1732509662.391988;i:4;a:0:{}i:5;i:958688;}i:1;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1732509662.392081;i:4;a:0:{}i:5;i:980272;}i:2;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1732509662.392093;i:4;a:0:{}i:5;i:981072;}i:3;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1732509662.392675;i:4;a:0:{}i:5;i:1227800;}i:4;a:6:{i:0;s:82:"Opening DB connection: pgsql:host=192.168.3.7;dbname=simasgantengv2_auth;port=5432";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.393317;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1476064;}i:7;a:6:{i:0;s:2813:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tbluser'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.409751;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1492592;}i:10;a:6:{i:0;s:875:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tbluser'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.422071;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1514584;}i:13;a:6:{i:0;s:59:"SELECT * FROM "tbluser" WHERE ("id"=9334) AND ("status"=10)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.430021;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1641256;}i:16;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1732509662.431375;i:4;a:0:{}i:5;i:1684624;}i:17;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1732509662.432182;i:4;a:0:{}i:5;i:1846096;}i:18;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1732509662.432251;i:4;a:0:{}i:5;i:1851632;}i:93;a:6:{i:0;s:53:"Route requested: 'sitampan/fp-tb-daftarfinger/device'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1732509662.432978;i:4;a:0:{}i:5;i:2003880;}i:94;a:6:{i:0;s:24:"Loading module: sitampan";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1732509662.432987;i:4;a:0:{}i:5;i:2005536;}i:95;a:6:{i:0;s:48:"Route to run: sitampan/fp-tb-daftarfinger/device";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1732509662.433204;i:4;a:0:{}i:5;i:2023360;}i:96;a:6:{i:0;s:91:"Running action: app\modules\sitampan\controllers\FpTbDaftarfingerController::actionDevice()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1732509662.433898;i:4;a:0:{}i:5;i:2077896;}i:97;a:6:{i:0;s:74:"Opening DB connection: pgsql:host=192.168.4.3;dbname=fingerprint;port=5432";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.434051;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2104040;}i:100;a:6:{i:0;s:2821:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tb_daftarfinger'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.441037;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2112128;}i:103;a:6:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tb_daftarfinger'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.459127;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2121360;}i:106;a:6:{i:0;s:64:"SELECT * FROM "tb_daftarfinger" WHERE "nip"='198209252024212010'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.465096;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2137608;}i:109;a:6:{i:0;s:73:"UPDATE "tb_daftarfinger" SET "device"='' WHERE "nip"='198209252024212010'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1732509662.46812;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:145;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2145592;}i:112;a:6:{i:0;s:2819:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'log_aktivitas'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.482561;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2169304;}i:115;a:6:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='log_aktivitas'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.490092;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2176448;}i:118;a:6:{i:0;s:169:"INSERT INTO "log_aktivitas" ("kode", "nip", "tgl", "aktivitas") VALUES ('198209252024212010-1732509662', '198209252024212010', '2024-11-25 11:41:02', 3) RETURNING "kode"";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.495422;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:152;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2190888;}i:121;a:6:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 114.10.122.208";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1732509662.507715;i:4;a:0:{}i:5;i:2261248;}}}";s:9:"profiling";s:32815:"a:3:{s:6:"memory";i:2261248;s:4:"time";d:0.12413191795349121;s:8:"messages";a:24:{i:5;a:6:{i:0;s:82:"Opening DB connection: pgsql:host=192.168.3.7;dbname=simasgantengv2_auth;port=5432";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.393353;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1477192;}i:6;a:6:{i:0;s:82:"Opening DB connection: pgsql:host=192.168.3.7;dbname=simasgantengv2_auth;port=5432";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.409619;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1479144;}i:8;a:6:{i:0;s:2813:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tbluser'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.409785;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1503384;}i:9;a:6:{i:0;s:2813:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tbluser'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.42167;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1535864;}i:11;a:6:{i:0;s:875:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tbluser'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.422099;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1518888;}i:12;a:6:{i:0;s:875:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tbluser'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.424235;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1520456;}i:14;a:6:{i:0;s:59:"SELECT * FROM "tbluser" WHERE ("id"=9334) AND ("status"=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.430061;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1642288;}i:15;a:6:{i:0;s:59:"SELECT * FROM "tbluser" WHERE ("id"=9334) AND ("status"=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.430676;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1647080;}i:98;a:6:{i:0;s:74:"Opening DB connection: pgsql:host=192.168.4.3;dbname=fingerprint;port=5432";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.434065;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2105544;}i:99;a:6:{i:0;s:74:"Opening DB connection: pgsql:host=192.168.4.3;dbname=fingerprint;port=5432";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1732509662.440968;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2107864;}i:101;a:6:{i:0;s:2821:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tb_daftarfinger'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.441086;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2123296;}i:102;a:6:{i:0;s:2821:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tb_daftarfinger'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.458486;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2136048;}i:104;a:6:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tb_daftarfinger'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.459178;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2126040;}i:105;a:6:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tb_daftarfinger'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.463762;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2127984;}i:107;a:6:{i:0;s:64:"SELECT * FROM "tb_daftarfinger" WHERE "nip"='198209252024212010'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.465141;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2140464;}i:108;a:6:{i:0;s:64:"SELECT * FROM "tb_daftarfinger" WHERE "nip"='198209252024212010'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.467198;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2143040;}i:110;a:6:{i:0;s:73:"UPDATE "tb_daftarfinger" SET "device"='' WHERE "nip"='198209252024212010'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1732509662.468159;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:145;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2147888;}i:111;a:6:{i:0;s:73:"UPDATE "tb_daftarfinger" SET "device"='' WHERE "nip"='198209252024212010'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1732509662.481931;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:145;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2149112;}i:113;a:6:{i:0;s:2819:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'log_aktivitas'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.482596;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2180008;}i:114;a:6:{i:0;s:2819:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'log_aktivitas'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.489416;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2189256;}i:116;a:6:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='log_aktivitas'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.490111;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2180752;}i:117;a:6:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='log_aktivitas'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.494204;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2182320;}i:119;a:6:{i:0;s:169:"INSERT INTO "log_aktivitas" ("kode", "nip", "tgl", "aktivitas") VALUES ('198209252024212010-1732509662', '198209252024212010', '2024-11-25 11:41:02', 3) RETURNING "kode"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.495439;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:152;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2191640;}i:120;a:6:{i:0;s:169:"INSERT INTO "log_aktivitas" ("kode", "nip", "tgl", "aktivitas") VALUES ('198209252024212010-1732509662', '198209252024212010', '2024-11-25 11:41:02', 3) RETURNING "kode"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.506607;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:152;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2193424;}}}";s:2:"db";s:30719:"a:1:{s:8:"messages";a:20:{i:8;a:6:{i:0;s:2813:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tbluser'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.409785;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1503384;}i:9;a:6:{i:0;s:2813:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tbluser'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.42167;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1535864;}i:11;a:6:{i:0;s:875:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tbluser'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.422099;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1518888;}i:12;a:6:{i:0;s:875:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tbluser'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.424235;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1520456;}i:14;a:6:{i:0;s:59:"SELECT * FROM "tbluser" WHERE ("id"=9334) AND ("status"=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.430061;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1642288;}i:15;a:6:{i:0;s:59:"SELECT * FROM "tbluser" WHERE ("id"=9334) AND ("status"=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.430676;i:4;a:1:{i:0;a:5:{s:4:"file";s:32:"/home/public_www/models/User.php";s:4:"line";i:76;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1647080;}i:101;a:6:{i:0;s:2821:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tb_daftarfinger'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.441086;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2123296;}i:102;a:6:{i:0;s:2821:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'tb_daftarfinger'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.458486;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2136048;}i:104;a:6:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tb_daftarfinger'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.459178;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2126040;}i:105;a:6:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='tb_daftarfinger'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.463762;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2127984;}i:107;a:6:{i:0;s:64:"SELECT * FROM "tb_daftarfinger" WHERE "nip"='198209252024212010'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.465141;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2140464;}i:108;a:6:{i:0;s:64:"SELECT * FROM "tb_daftarfinger" WHERE "nip"='198209252024212010'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.467198;i:4;a:2:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:225;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:143;s:8:"function";s:9:"findModel";s:5:"class";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";s:4:"type";s:2:"->";}}i:5;i:2143040;}i:110;a:6:{i:0;s:73:"UPDATE "tb_daftarfinger" SET "device"='' WHERE "nip"='198209252024212010'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1732509662.468159;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:145;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2147888;}i:111;a:6:{i:0;s:73:"UPDATE "tb_daftarfinger" SET "device"='' WHERE "nip"='198209252024212010'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1732509662.481931;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:145;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2149112;}i:113;a:6:{i:0;s:2819:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'log_aktivitas'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.482596;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2180008;}i:114;a:6:{i:0;s:2819:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    COALESCE(td.typname, tb.typname, t.typname) AS data_type,
+    COALESCE(td.typtype, tb.typtype, t.typtype) AS type_type,
+    (SELECT nspname FROM pg_namespace WHERE oid = COALESCE(td.typnamespace, tb.typnamespace, t.typnamespace)) AS type_scheme,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) OR attidentity != '' AS is_autoinc,
+    pg_get_serial_sequence(quote_ident(d.nspname) || '.' || quote_ident(c.relname), a.attname) AS sequence_name,
+    CASE WHEN COALESCE(td.typtype, tb.typtype, t.typtype) = 'e'::char
+        THEN array_to_string((SELECT array_agg(enumlabel) FROM pg_enum WHERE enumtypid = COALESCE(td.oid, tb.oid, a.atttypid))::varchar[], ',')
+        ELSE NULL
+    END AS enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey,
+    COALESCE(NULLIF(a.attndims, 0), NULLIF(t.typndims, 0), (t.typcategory='A')::int) AS dimension
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_type tb ON (a.attndims > 0 OR t.typcategory='A') AND t.typelem > 0 AND t.typelem = tb.oid OR t.typbasetype > 0 AND t.typbasetype = tb.oid
+    LEFT JOIN pg_type td ON t.typndims > 0 AND t.typbasetype > 0 AND tb.typelem = td.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT JOIN pg_constraint ct ON ct.conrelid = c.oid AND ct.contype = 'p'
+WHERE
+    a.attnum > 0 AND t.typname != '' AND NOT a.attisdropped
+    AND c.relname = 'log_aktivitas'
+    AND d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.489416;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2189256;}i:116;a:6:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='log_aktivitas'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.490111;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2180752;}i:117;a:6:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='log_aktivitas'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.494204;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:148;s:8:"function";s:9:"offsetSet";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}i:5;i:2182320;}i:119;a:6:{i:0;s:169:"INSERT INTO "log_aktivitas" ("kode", "nip", "tgl", "aktivitas") VALUES ('198209252024212010-1732509662', '198209252024212010', '2024-11-25 11:41:02', 3) RETURNING "kode"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.495439;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:152;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2191640;}i:120;a:6:{i:0;s:169:"INSERT INTO "log_aktivitas" ("kode", "nip", "tgl", "aktivitas") VALUES ('198209252024212010-1732509662', '198209252024212010', '2024-11-25 11:41:02', 3) RETURNING "kode"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1732509662.506607;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"/home/public_www/modules/sitampan/controllers/FpTbDaftarfingerController.php";s:4:"line";i:152;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2193424;}}}";s:5:"event";s:6053:"a:32:{i:0;a:5:{s:4:"time";d:1732509662.393026;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:1;a:5:{s:4:"time";d:1732509662.409612;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:2;a:5:{s:4:"time";d:1732509662.430838;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:3;a:5:{s:4:"time";d:1732509662.430909;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:4;a:5:{s:4:"time";d:1732509662.431144;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:5;a:5:{s:4:"time";d:1732509662.432442;s:4:"name";s:13:"beforeRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:6;a:5:{s:4:"time";d:1732509662.433552;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:7;a:5:{s:4:"time";d:1732509662.43358;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:8;a:5:{s:4:"time";d:1732509662.433592;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:9;a:5:{s:4:"time";d:1732509662.433602;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:10;a:5:{s:4:"time";d:1732509662.433611;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:11;a:5:{s:4:"time";d:1732509662.433619;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:12;a:5:{s:4:"time";d:1732509662.433628;s:4:"name";s:18:"missingTranslation";s:5:"class";s:32:"yii\i18n\MissingTranslationEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"yii\i18n\PhpMessageSource";}i:13;a:5:{s:4:"time";d:1732509662.433675;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:14;a:5:{s:4:"time";d:1732509662.433686;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\modules\sitampan\Sitampan";}i:15;a:5:{s:4:"time";d:1732509662.433795;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";}i:16;a:5:{s:4:"time";d:1732509662.433973;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:17;a:5:{s:4:"time";d:1732509662.440962;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:18;a:5:{s:4:"time";d:1732509662.46778;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:44:"app\modules\sitampan\models\FpTbDaftarfinger";}i:19;a:5:{s:4:"time";d:1732509662.467846;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:44:"app\modules\sitampan\models\FpTbDaftarfinger";}i:20;a:5:{s:4:"time";d:1732509662.467947;s:4:"name";s:12:"beforeUpdate";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:44:"app\modules\sitampan\models\FpTbDaftarfinger";}i:21;a:5:{s:4:"time";d:1732509662.48241;s:4:"name";s:11:"afterUpdate";s:5:"class";s:21:"yii\db\AfterSaveEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:44:"app\modules\sitampan\models\FpTbDaftarfinger";}i:22;a:5:{s:4:"time";d:1732509662.48247;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:42:"app\modules\sitampan\models\FpLogAktivitas";}i:23;a:5:{s:4:"time";d:1732509662.495277;s:4:"name";s:12:"beforeInsert";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:42:"app\modules\sitampan\models\FpLogAktivitas";}i:24;a:5:{s:4:"time";d:1732509662.50725;s:4:"name";s:11:"afterInsert";s:5:"class";s:21:"yii\db\AfterSaveEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:42:"app\modules\sitampan\models\FpLogAktivitas";}i:25;a:5:{s:4:"time";d:1732509662.507567;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:59:"app\modules\sitampan\controllers\FpTbDaftarfingerController";}i:26;a:5:{s:4:"time";d:1732509662.507583;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\modules\sitampan\Sitampan";}i:27;a:5:{s:4:"time";d:1732509662.5076;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:28;a:5:{s:4:"time";d:1732509662.507611;s:4:"name";s:12:"afterRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:29;a:5:{s:4:"time";d:1732509662.507621;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:30;a:5:{s:4:"time";d:1732509662.50773;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:31;a:5:{s:4:"time";d:1732509662.507796;s:4:"name";s:9:"afterSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:91:"a:3:{s:5:"start";d:1732509662.384673;s:3:"end";d:1732509662.509059;s:6:"memory";i:2261248;}";s:4:"dump";s:6:"a:0:{}";s:6:"router";s:13678:"a:3:{s:8:"messages";a:74:{i:19;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432553;i:4;a:0:{}i:5;i:1941944;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432566;i:4;a:0:{}i:5;i:1942696;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432572;i:4;a:0:{}i:5;i:1943448;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432577;i:4;a:0:{}i:5;i:1944200;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432583;i:4;a:0:{}i:5;i:1944952;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:5:"login";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432588;i:4;a:0:{}i:5;i:1945704;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:1:"/";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432593;i:4;a:0:{}i:5;i:1946456;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:5:"index";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432598;i:4;a:0:{}i:5;i:1947208;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:4:"gaji";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432603;i:4;a:0:{}i:5;i:1947960;}i:28;a:6:{i:0;a:3:{s:4:"rule";s:6:"simpeg";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432607;i:4;a:0:{}i:5;i:1948712;}i:29;a:6:{i:0;a:3:{s:4:"rule";s:5:"siasn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432611;i:4;a:0:{}i:5;i:1949464;}i:30;a:6:{i:0;a:3:{s:4:"rule";s:7:"sinkron";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432616;i:4;a:0:{}i:5;i:1950216;}i:31;a:6:{i:0;a:3:{s:4:"rule";s:14:"response-siasn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.43262;i:4;a:0:{}i:5;i:1950968;}i:32;a:6:{i:0;a:3:{s:4:"rule";s:3:"asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432624;i:4;a:0:{}i:5;i:1951720;}i:33;a:6:{i:0;a:3:{s:4:"rule";s:7:"asn-opd";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432629;i:4;a:0:{}i:5;i:1953752;}i:34;a:6:{i:0;a:3:{s:4:"rule";s:8:"data-asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432633;i:4;a:0:{}i:5;i:1954504;}i:35;a:6:{i:0;a:3:{s:4:"rule";s:10:"detail-asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432637;i:4;a:0:{}i:5;i:1955256;}i:36;a:6:{i:0;a:3:{s:4:"rule";s:10:"profil-asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432641;i:4;a:0:{}i:5;i:1956008;}i:37;a:6:{i:0;a:3:{s:4:"rule";s:13:"cpns-pns-pppk";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432645;i:4;a:0:{}i:5;i:1956760;}i:38;a:6:{i:0;a:3:{s:4:"rule";s:14:"siasn-get-data";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.43265;i:4;a:0:{}i:5;i:1957512;}i:39;a:6:{i:0;a:3:{s:4:"rule";s:13:"siasn-get-dok";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432653;i:4;a:0:{}i:5;i:1958264;}i:40;a:6:{i:0;a:3:{s:4:"rule";s:14:"siasn-show-dok";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432657;i:4;a:0:{}i:5;i:1959016;}i:41;a:6:{i:0;a:3:{s:4:"rule";s:4:"unor";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432661;i:4;a:0:{}i:5;i:1959768;}i:42;a:6:{i:0;a:3:{s:4:"rule";s:8:"all-unor";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432665;i:4;a:0:{}i:5;i:1960520;}i:43;a:6:{i:0;a:3:{s:4:"rule";s:13:"download-unor";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432669;i:4;a:0:{}i:5;i:1961272;}i:44;a:6:{i:0;a:3:{s:4:"rule";s:7:"dokumen";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432673;i:4;a:0:{}i:5;i:1962024;}i:45;a:6:{i:0;a:3:{s:4:"rule";s:12:"data-anomali";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432677;i:4;a:0:{}i:5;i:1962776;}i:46;a:6:{i:0;a:3:{s:4:"rule";s:11:"data-profil";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432687;i:4;a:0:{}i:5;i:1963528;}i:47;a:6:{i:0;a:3:{s:4:"rule";s:13:"data-cpns-pns";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432692;i:4;a:0:{}i:5;i:1964280;}i:48;a:6:{i:0;a:3:{s:4:"rule";s:12:"data-pangkat";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432696;i:4;a:0:{}i:5;i:1965032;}i:49;a:6:{i:0;a:3:{s:4:"rule";s:12:"data-jabatan";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.4327;i:4;a:0:{}i:5;i:1965784;}i:50;a:6:{i:0;a:3:{s:4:"rule";s:10:"data-skp22";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432705;i:4;a:0:{}i:5;i:1966536;}i:51;a:6:{i:0;a:3:{s:4:"rule";s:8:"data-skp";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432709;i:4;a:0:{}i:5;i:1967288;}i:52;a:6:{i:0;a:3:{s:4:"rule";s:15:"data-pendidikan";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432713;i:4;a:0:{}i:5;i:1968040;}i:53;a:6:{i:0;a:3:{s:4:"rule";s:11:"data-diklat";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432717;i:4;a:0:{}i:5;i:1968792;}i:54;a:6:{i:0;a:3:{s:4:"rule";s:12:"data-rw-unor";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432721;i:4;a:0:{}i:5;i:1969544;}i:55;a:6:{i:0;a:3:{s:4:"rule";s:13:"upload-dok-rw";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432725;i:4;a:0:{}i:5;i:1970296;}i:56;a:6:{i:0;a:3:{s:4:"rule";s:10:"upload-dok";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432729;i:4;a:0:{}i:5;i:1971048;}i:57;a:6:{i:0;a:3:{s:4:"rule";s:9:"post-data";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432733;i:4;a:0:{}i:5;i:1971800;}i:58;a:6:{i:0;a:3:{s:4:"rule";s:11:"setting-asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432737;i:4;a:0:{}i:5;i:1972552;}i:59;a:6:{i:0;a:3:{s:4:"rule";s:13:"setting-libur";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432741;i:4;a:0:{}i:5;i:1973304;}i:60;a:6:{i:0;a:3:{s:4:"rule";s:19:"setting-jenis-libur";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432745;i:4;a:0:{}i:5;i:1974056;}i:61;a:6:{i:0;a:3:{s:4:"rule";s:18:"setting-hari-kerja";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432749;i:4;a:0:{}i:5;i:1974808;}i:62;a:6:{i:0;a:3:{s:4:"rule";s:17:"setting-jam-kerja";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432753;i:4;a:0:{}i:5;i:1975560;}i:63;a:6:{i:0;a:3:{s:4:"rule";s:20:"setting-ket-presensi";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432757;i:4;a:0:{}i:5;i:1976312;}i:64;a:6:{i:0;a:3:{s:4:"rule";s:17:"setting-ket-absen";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432761;i:4;a:0:{}i:5;i:1977064;}i:65;a:6:{i:0;a:3:{s:4:"rule";s:17:"setting-kelas-tpp";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432765;i:4;a:0:{}i:5;i:1983448;}i:66;a:6:{i:0;a:3:{s:4:"rule";s:23:"setting-lokasi-presensi";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432769;i:4;a:0:{}i:5;i:1984200;}i:67;a:6:{i:0;a:3:{s:4:"rule";s:17:"setting-parameter";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432773;i:4;a:0:{}i:5;i:1984952;}i:68;a:6:{i:0;a:3:{s:4:"rule";s:15:"presensi-jadwal";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432849;i:4;a:0:{}i:5;i:1985704;}i:69;a:6:{i:0;a:3:{s:4:"rule";s:14:"presensi-hasil";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432854;i:4;a:0:{}i:5;i:1986456;}i:70;a:6:{i:0;a:3:{s:4:"rule";s:12:"presensi-asn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432858;i:4;a:0:{}i:5;i:1987208;}i:71;a:6:{i:0;a:3:{s:4:"rule";s:16:"keterangan-absen";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432862;i:4;a:0:{}i:5;i:1987960;}i:72;a:6:{i:0;a:3:{s:4:"rule";s:9:"reset-apk";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432866;i:4;a:0:{}i:5;i:1988712;}i:73;a:6:{i:0;a:3:{s:4:"rule";s:5:"reset";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.43287;i:4;a:0:{}i:5;i:1989464;}i:74;a:6:{i:0;a:3:{s:4:"rule";s:6:"tambah";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432874;i:4;a:0:{}i:5;i:1990216;}i:75;a:6:{i:0;a:3:{s:4:"rule";s:12:"data-kinerja";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432878;i:4;a:0:{}i:5;i:1990968;}i:76;a:6:{i:0;a:3:{s:4:"rule";s:13:"data-presensi";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432882;i:4;a:0:{}i:5;i:1991720;}i:77;a:6:{i:0;a:3:{s:4:"rule";s:8:"data-tpp";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432886;i:4;a:0:{}i:5;i:1992472;}i:78;a:6:{i:0;a:3:{s:4:"rule";s:12:"asn-presensi";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.43289;i:4;a:0:{}i:5;i:1993224;}i:79;a:6:{i:0;a:3:{s:4:"rule";s:12:"kinerja-data";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432894;i:4;a:0:{}i:5;i:1993976;}i:80;a:6:{i:0;a:3:{s:4:"rule";s:7:"tpp-pns";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432898;i:4;a:0:{}i:5;i:1994728;}i:81;a:6:{i:0;a:3:{s:4:"rule";s:7:"tpp-plt";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432902;i:4;a:0:{}i:5;i:1995480;}i:82;a:6:{i:0;a:3:{s:4:"rule";s:12:"tpp-penerima";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432907;i:4;a:0:{}i:5;i:1996232;}i:83;a:6:{i:0;a:3:{s:4:"rule";s:7:"tpp-opd";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432911;i:4;a:0:{}i:5;i:1996984;}i:84;a:6:{i:0;a:3:{s:4:"rule";s:9:"tpp-cetak";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432915;i:4;a:0:{}i:5;i:1997736;}i:85;a:6:{i:0;a:3:{s:4:"rule";s:9:"cetak-tpp";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432919;i:4;a:0:{}i:5;i:1998488;}i:86;a:6:{i:0;a:3:{s:4:"rule";s:12:"anomali-unor";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432923;i:4;a:0:{}i:5;i:1999240;}i:87;a:6:{i:0;a:3:{s:4:"rule";s:11:"anomali-bup";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432927;i:4;a:0:{}i:5;i:1999992;}i:88;a:6:{i:0;a:3:{s:4:"rule";s:11:"anomali-skp";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432931;i:4;a:0:{}i:5;i:2000744;}i:89;a:6:{i:0;a:3:{s:4:"rule";s:11:"anomali-nik";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432934;i:4;a:0:{}i:5;i:2001496;}i:90;a:6:{i:0;a:3:{s:4:"rule";s:7:"dataasn";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432938;i:4;a:0:{}i:5;i:2002248;}i:91;a:6:{i:0;a:3:{s:4:"rule";s:29:"<controller:\w+>/<action:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432944;i:4;a:0:{}i:5;i:2003000;}i:92;a:6:{i:0;a:3:{s:4:"rule";s:18:"app\config\UrlRule";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1732509662.432969;i:4;a:0:{}i:5;i:2004552;}}s:5:"route";s:34:"sitampan/fp-tb-daftarfinger/device";s:6:"action";s:75:"app\modules\sitampan\controllers\FpTbDaftarfingerController::actionDevice()";}";s:7:"request";s:6251:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:13:{s:6:"cookie";s:54:"bkpsdmd-brebeskab-app-admin=mj4490rjtpotl8hjq2urje87si";s:15:"accept-language";s:35:"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:178:"http://simasganteng-bkpsdmd.brebeskab.go.id/reset-apk?FpTbDaftarfingerSearch%5Bnip%5D=198209252024212010&FpTbDaftarfingerSearch%5Bnama%5D=&FpTbDaftarfingerSearch%5Bkodealamat%5D=";s:6:"origin";s:43:"http://simasganteng-bkpsdmd.brebeskab.go.id";s:6:"accept";s:3:"*/*";s:10:"user-agent";s:111:"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36";s:16:"x-requested-with";s:14:"XMLHttpRequest";s:12:"x-csrf-token";s:88:"GJaA-ViaAuNfhCnUWOR0wNcUuzFRAos6yKw0AV3t42h_3tmdbuwytg3CHaA50SuhuCHzcBt3w02R_WxrH4usDg==";s:14:"content-length";s:1:"0";s:10:"connection";s:10:"keep-alive";s:4:"host";s:36:"simasganteng-bkpsdmd.brebeskab.go.id";s:12:"content-type";s:0:"";}s:15:"responseHeaders";a:5:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:10:"X-Redirect";s:178:"http://simasganteng-bkpsdmd.brebeskab.go.id/reset-apk?FpTbDaftarfingerSearch%5Bnip%5D=198209252024212010&FpTbDaftarfingerSearch%5Bnama%5D=&FpTbDaftarfingerSearch%5Bkodealamat%5D=";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:34:"sitampan/fp-tb-daftarfinger/device";s:6:"action";s:75:"app\modules\sitampan\controllers\FpTbDaftarfingerController::actionDevice()";s:12:"actionParams";a:1:{s:2:"id";s:18:"198209252024212010";}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:1;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:78:{s:4:"USER";s:8:"www-data";s:4:"HOME";s:8:"/var/www";s:11:"HTTP_COOKIE";s:54:"bkpsdmd-brebeskab-app-admin=mj4490rjtpotl8hjq2urje87si";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:178:"http://simasganteng-bkpsdmd.brebeskab.go.id/reset-apk?FpTbDaftarfingerSearch%5Bnip%5D=198209252024212010&FpTbDaftarfingerSearch%5Bnama%5D=&FpTbDaftarfingerSearch%5Bkodealamat%5D=";s:11:"HTTP_ORIGIN";s:43:"http://simasganteng-bkpsdmd.brebeskab.go.id";s:11:"HTTP_ACCEPT";s:3:"*/*";s:15:"HTTP_USER_AGENT";s:111:"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:17:"HTTP_X_CSRF_TOKEN";s:88:"GJaA-ViaAuNfhCnUWOR0wNcUuzFRAos6yKw0AV3t42h_3tmdbuwytg3CHaA50SuhuCHzcBt3w02R_WxrH4usDg==";s:19:"HTTP_CONTENT_LENGTH";s:1:"0";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:9:"HTTP_HOST";s:36:"simasganteng-bkpsdmd.brebeskab.go.id";s:19:"modHeadersAvailable";s:4:"true";s:9:"PATH_INFO";s:0:"";s:15:"SCRIPT_FILENAME";s:30:"/home/public_www/web/index.php";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:0:"";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:12:"192.168.3.33";s:11:"REMOTE_USER";s:0:"";s:11:"REMOTE_PORT";s:5:"35683";s:11:"REMOTE_ADDR";s:14:"114.10.122.208";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.18.0";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:14:"REQUEST_SCHEME";s:4:"http";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:20:"/home/public_www/web";s:12:"DOCUMENT_URI";s:10:"/index.php";s:11:"REQUEST_URI";s:87:"/sitampan/fp-tb-daftarfinger/device?id=WW5KbEl6RTVPREl3T1RJMU1qQXlOREl4TWpBeE1DTmlaWE4w";s:11:"SCRIPT_NAME";s:10:"/index.php";s:14:"CONTENT_LENGTH";s:1:"0";s:12:"CONTENT_TYPE";s:0:"";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:51:"id=WW5KbEl6RTVPREl3T1RJMU1qQXlOREl4TWpBeE1DTmlaWE4w";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1732509662.382124;s:12:"REQUEST_TIME";i:1732509662;s:7:"APP_ENV";s:3:"dev";s:9:"APP_DEBUG";s:4:"true";s:7:"APP_KEY";s:47:"pvFYW2hBpYgHxi8lijXWxQeMrNkixxvZ9912-3.33-admin";s:8:"DB_HOST1";s:11:"192.168.3.7";s:8:"DB_NAME1";s:19:"simasgantengv2_auth";s:8:"DB_PORT1";s:4:"5432";s:8:"DB_USER1";s:8:"postgres";s:8:"DB_PASS1";s:17:"Inka@bkpsdmd-3329";s:8:"DB_HOST2";s:12:"192.168.3.17";s:8:"DB_NAME2";s:14:"simasgantengv2";s:8:"DB_PORT2";s:4:"5432";s:8:"DB_USER2";s:8:"postgres";s:8:"DB_PASS2";s:15:"SinkaAdmin-3329";s:8:"DB_HOST3";s:11:"192.168.4.3";s:8:"DB_NAME3";s:6:"simpeg";s:8:"DB_PORT3";s:4:"3306";s:8:"DB_USER3";s:6:"binpeg";s:8:"DB_PASS3";s:20:"binpegbekade01012017";s:8:"DB_HOST4";s:11:"192.168.4.3";s:8:"DB_NAME4";s:8:"sppd2024";s:8:"DB_PORT4";s:4:"3306";s:8:"DB_USER4";s:6:"binpeg";s:8:"DB_PASS4";s:20:"binpegbekade01012017";s:8:"DB_HOST5";s:11:"192.168.4.5";s:8:"DB_NAME5";s:8:"dbgajido";s:8:"DB_PORT5";s:4:"3000";s:8:"DB_USER5";s:6:"taspen";s:8:"DB_PASS5";s:6:"taspen";s:8:"DB_HOST6";s:11:"192.168.2.6";s:8:"DB_NAME6";s:7:"adms_db";s:8:"DB_PORT6";s:4:"3306";s:8:"DB_USER6";s:6:"binpeg";s:8:"DB_PASS6";s:20:"binpegbekade01012017";s:8:"DB_HOST7";s:11:"192.168.4.3";s:8:"DB_NAME7";s:11:"fingerprint";s:8:"DB_PORT7";s:4:"5432";s:8:"DB_USER7";s:8:"postgres";s:8:"DB_PASS7";s:16:"sinka-admin@3329";}s:3:"GET";a:1:{s:2:"id";s:18:"198209252024212010";}s:4:"POST";a:0:{}s:6:"COOKIE";a:1:{s:27:"bkpsdmd-brebeskab-app-admin";s:26:"mj4490rjtpotl8hjq2urje87si";}s:5:"FILES";a:0:{}s:7:"SESSION";a:18:{s:7:"__flash";a:1:{s:8:"position";i:-1;}s:4:"__id";i:9334;s:9:"__authKey";s:32:"ifd3wdI2H44fKQasQvKfWAR1FmWgFnOK";s:8:"__expire";i:1732513262;s:9:"_csrf-app";s:32:"gHYd6v0URF4ta5_ao5HAJuHwYQXjBfOf";s:8:"password";s:8:"8176AwNk";s:8:"username";s:18:"197606122014091001";s:3:"nip";s:18:"197606122014091001";s:8:"pengguna";s:32:"F3C4E4A330106515E040640A020234F9";s:12:"namapengguna";s:10:"ADE WIDODO";s:6:"iduser";i:9334;s:4:"role";s:1:"5";s:6:"module";s:1:"7";s:9:"roleadmin";i:1;s:8:"token_id";s:60:"$2y$13$8NXndyhwCR4vOu0RAVKbHOSP/KbxbzTavP9ulN1YwAC1ePIwcDutq";s:13:"token_expired";s:19:"2024-11-25 14:15:46";s:11:"__returnUrl";s:135:"/reset-apk?FpTbDaftarfingerSearch%5Bnip%5D=198209252024212010&FpTbDaftarfingerSearch%5Bnama%5D=&FpTbDaftarfingerSearch%5Bkodealamat%5D=";s:8:"position";a:5:{s:4:"icon";s:7:"success";s:5:"title";s:8:"Berhasil";s:4:"text";s:25:"Reset Device berhasil !!!";s:17:"showConfirmButton";b:0;s:5:"timer";i:1000;}}}";s:4:"user";s:2223:"a:5:{s:2:"id";i:9334;s:8:"identity";a:18:{s:2:"id";s:4:"9334";s:8:"username";s:20:"'197606122014091001'";s:8:"auth_key";s:34:"'ifd3wdI2H44fKQasQvKfWAR1FmWgFnOK'";s:13:"password_hash";s:62:"'$2y$13$8CfbDiVl9O6aVVk/2YQj1OaGYnGlRFgB7RMUYQ84AWI5GZenh0L9i'";s:6:"status";s:2:"10";s:8:"pengguna";s:34:"'F3C4E4A330106515E040640A020234F9'";s:7:"nipBaru";s:20:"'197606122014091001'";s:12:"namapengguna";s:12:"'ADE WIDODO'";s:6:"tablok";s:10:"'31000000'";s:7:"namaopd";s:63:"'BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA DAERAH'";s:4:"role";s:15:"'2,5,3,8,12,13'";s:4:"foto";s:33:"'197606122014091001-pas_foto.jpg'";s:7:"created";s:21:"'2020-08-15 01:29:02'";s:8:"modified";s:21:"'2024-02-12 10:43:24'";s:8:"updateby";s:41:"'198306292010011024 MOH. ARIEF KURNIAWAN'";s:4:"flag";s:1:"1";s:8:"token_id";s:62:"'$2y$13$8NXndyhwCR4vOu0RAVKbHOSP/KbxbzTavP9ulN1YwAC1ePIwcDutq'";s:13:"token_expired";s:21:"'2024-11-25 14:15:46'";}s:10:"attributes";a:18:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"ID";}i:1;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:8:"Username";}i:2;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:3;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:4;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:5;a:2:{s:9:"attribute";s:8:"pengguna";s:5:"label";s:13:"Nama Pengguna";}i:6;a:2:{s:9:"attribute";s:7:"nipBaru";s:5:"label";s:3:"NIP";}i:7;a:2:{s:9:"attribute";s:12:"namapengguna";s:5:"label";s:4:"Nama";}i:8;a:2:{s:9:"attribute";s:6:"tablok";s:5:"label";s:6:"Tablok";}i:9;a:2:{s:9:"attribute";s:7:"namaopd";s:5:"label";s:8:"Nama OPD";}i:10;a:2:{s:9:"attribute";s:4:"role";s:5:"label";s:5:"Roles";}i:11;a:2:{s:9:"attribute";s:4:"foto";s:5:"label";s:11:"Foto Profil";}i:12;a:2:{s:9:"attribute";s:7:"created";s:5:"label";s:7:"Created";}i:13;a:2:{s:9:"attribute";s:8:"modified";s:5:"label";s:8:"Modified";}i:14;a:2:{s:9:"attribute";s:8:"updateby";s:5:"label";s:11:"Diubah Oleh";}i:15;a:2:{s:9:"attribute";s:4:"flag";s:5:"label";s:4:"Flag";}i:16;a:2:{s:9:"attribute";s:8:"token_id";s:5:"label";s:8:"Token Id";}i:17;a:2:{s:9:"attribute";s:13:"token_expired";s:5:"label";s:13:"Token Expired";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:5:"asset";s:6:"a:0:{}";s:7:"summary";a:13:{s:3:"tag";s:13:"6743ffde69540";s:3:"url";s:130:"http://simasganteng-bkpsdmd.brebeskab.go.id/sitampan/fp-tb-daftarfinger/device?id=WW5KbEl6RTVPREl3T1RJMU1qQXlOREl4TWpBeE1DTmlaWE4w";s:4:"ajax";i:1;s:6:"method";s:4:"POST";s:2:"ip";s:14:"114.10.122.208";s:4:"time";d:1732509662.382124;s:10:"statusCode";i:302;s:8:"sqlCount";i:10;s:21:"excessiveCallersCount";i:0;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}s:10:"peakMemory";i:2261248;s:14:"processingTime";d:0.12413191795349121;}s:10:"exceptions";a:0:{}}

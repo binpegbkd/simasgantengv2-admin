@@ -1,0 +1,1 @@
+{"code":"0","error":"true","message":"Get \"http://object-store.bkn.go.id/siasn-instansi/?location=\": read tcp 10.130.11.139:43050-\u003e10.100.10.64:80: read: connection reset by peer"}
